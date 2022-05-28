@@ -1,0 +1,28 @@
+* {
+      
+      font-family: 'Roboto', sans-serif;
+}
+
+img {
+      border-radius: 20%;
+}
+
+#outsideLink {
+      background-color: blueviolet;
+      color: gold;
+}
+
+#page2 {
+      background-color: gold;
+      color: silver;
+      font-size: 14px;
+      font-weight: 700;
+      padding: 5px 15px;
+      border: 2px solid silver;
+      border-radius: 8px;
+}
+
+p {
+      color: coral;
+      font-family: 'Oswald', sans-serif;
+}
